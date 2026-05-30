@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Subrata
+## Hi there 👋, I'm Subrata
 
-### Software Engineer | Fullstack Developer | AI Enthusiast
+#### Software Engineer | Fullstack Developer | AI Enthusiast
 
 I'm a software engineer passionate about building scalable fullsatck systems, cloud-native applications, and intelligent software solutions. I enjoy solving complex engineering problems and transforming ideas into reliable, production-ready products.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💻 Software Engineer with experience in Java, Python, JavaScript, and modern web technologies
 - ⚙️ Interested in backend architecture, distributed systems, and scalable application design
@@ -16,7 +16,7 @@ I'm a software engineer passionate about building scalable fullsatck systems, cl
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - **Languages :** C/C++, Python, Java, TypeScript, JavaScript, SQL
 - **Backend :** Node.js, Express.js, Spring, Spring Boot, Microservices, REST APIs
@@ -29,7 +29,7 @@ I'm a software engineer passionate about building scalable fullsatck systems, cl
 
 ---
 
-## 🌱 Currently Building & Learning
+### 🌱 Currently Building & Learning
 
 - Full-stack applications powered by AI and LLMs
 - Retrieval-Augmented Generation (RAG)
@@ -38,7 +38,7 @@ I'm a software engineer passionate about building scalable fullsatck systems, cl
 
 ---
 
-## 🎯 Interests
+### 🎯 Interests
 
 * Building scalable backend systems and microservices
 * AI-powered software and intelligent automation
@@ -48,7 +48,7 @@ I'm a software engineer passionate about building scalable fullsatck systems, cl
 
 ---
 
-## 🤝 Open To
+### 🤝 Open To
 
 * Opportunities in Software Engineering, Backend Engineering, and AI Engineering
 * Knowledge sharing, engineering discussions
@@ -56,7 +56,7 @@ I'm a software engineer passionate about building scalable fullsatck systems, cl
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Subrata-2002">
