@@ -1,78 +1,77 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Subrata-2002.Subrata-2002" />
+# Hi there 👋, I'm Subrata
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subrata+Ruj;" />
-</h1>
+### Software Engineer | Fullstack Developer | AI Enthusiast
 
-<h3 align="center">A Passionate Mern Developer From India</h3>
+I'm a software engineer passionate about building scalable fullsatck systems, cloud-native applications, and intelligent software solutions. I enjoy solving complex engineering problems and transforming ideas into reliable, production-ready products.
 
-<br/>
+---
 
-<img align="right" alt="codding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🚀 About Me
 
-<div align="left">
- 
-- 🔭 I’m currently working on **MERN STACK**
+- 💻 Software Engineer with experience in Java, Python, JavaScript, and modern web technologies
+- ⚙️ Interested in backend architecture, distributed systems, and scalable application design
+- 🤖 Exploring AI Engineering, LLM-powered applications, RAG systems
+- ☁️ Enthusiastic about cloud infrastructure, DevOps practices, and system reliability
+- 🌱 Constantly learning and improving through building real-world projects
 
-- 🌱 I’m currently learning **Data Structure And Algorithms**
+---
 
-- 👯 I’m looking to collaborate on [[LinkedIn- Subrata Ruj]](https://www.linkedin.com/in/subrata-ruj-6b8190247/)
+## 🛠 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/Subrata-2002](https://github.com/Subrata-2002)
+- **Languages :** C/C++, Python, Java, TypeScript, JavaScript, SQL
+- **Backend :** Node.js, Express.js, Spring, Spring Boot, Microservices, REST APIs
+- **AI & Data :** LLM Applications, RAG Systems, Vector Databases, NLP
+- **Messaging & Streaming :** Apache Kafka, RabbitMQ, Server-Sent Events (SSE), WebSockets
+- **Cloud & DevOps :** Docker, Kubernetes, CI/CD, GitHub Actions, Cloud Platforms(AWS)
+- **Frontend :** React.js, Redux, Next.js, HTML5, CSS3
+- **Databases & Caching :** PostgreSQL, MySQL, MongoDB, Redis
+- **Tools & Platforms :** Git, GitHub, Postman, Linux, Render, Vercel
 
-- 💬 Ask me about **Frontend,Backend & fullstack**
+---
 
-- 📫 How to reach me **roojsubrata0@gmail.com**
+## 🌱 Currently Building & Learning
 
-- 
+- Full-stack applications powered by AI and LLMs
+- Retrieval-Augmented Generation (RAG)
+- Distributed Systems and Cloud Security
+- System Design
 
- </div>
- <br/>
-<!-- <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+---
+
+## 🎯 Interests
+
+* Building scalable backend systems and microservices
+* AI-powered software and intelligent automation
+* Distributed systems and system design
+* Cloud-native applications and infrastructure
+* Performance optimization and engineering best practices
+
+---
+
+## 🤝 Open To
+
+* Opportunities in Software Engineering, Backend Engineering, and AI Engineering
+* Knowledge sharing, engineering discussions
+* Collaborating on backend, cloud, and AI-driven projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Subrata-2002">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subrata-ruj/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> 
-<!--   </a>
-</div> -->
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvMtwRkncJZCsRMzGCxnMTzZgTfCkzDqPQgffpvrQwTxgckltBVcfxxdxhfTtWGCRmrZL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,cpp,javascript,python,html,css,bootstrap,github,git,materialui,redux,chartjs,babel" />
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,sass,postman,linux" /><br>
-</div>
+---
 
-<br/>
-<hr/>
-
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Subrata-2002/Subrata-2002/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
--->
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Subrata-2002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>&nbsp;
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Subrata-2002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Subrata-2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+> Building scalable software, learning continuously, and exploring the future of AI.
